@@ -5,6 +5,7 @@ Newest --> Oldest
 <h2> July-Feed </h1>
 <p>
   
+  <a href="https://www.youtube.com/watch?v=C4ziJepiaVw"><img src="https://img.youtube.com/vi/C4ziJepiaVw/maxresdefault.jpg" width="150" alt="OSINT Magic Tricks Revealed w/ Mishaal Khan" /></a>
   <a href="https://www.youtube.com/watch?v=0owGoqaV8N8"><img src="https://img.youtube.com/vi/0owGoqaV8N8/maxresdefault.jpg" width="150" alt="🔴 Jul 22's Top Cyber News NOW! - Ep 1179" /></a>
   <a href="https://www.youtube.com/watch?v=58b8kqrFD7o"><img src="https://img.youtube.com/vi/58b8kqrFD7o/maxresdefault.jpg" width="150" alt="OpenAI’s New AI ESCAPED and Hacked Hugging Face" /></a>
   <a href="https://www.youtube.com/watch?v=uqL9FZa8abM"><img src="https://img.youtube.com/vi/uqL9FZa8abM/maxresdefault.jpg" width="150" alt="OpenAI’s Model Breaks Out of Lab and Hacks Hugging Face" /></a>
