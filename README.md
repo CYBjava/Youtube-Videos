@@ -4,6 +4,8 @@ Newest --> Oldest
 
 <h2> July-Feed </h1>
 <p>
+  <a href="https://www.youtube.com/watch?v=jr1aolDB8r4"><img src="https://img.youtube.com/vi/jr1aolDB8r4/maxresdefault.jpg" width="150" alt="🔴 Jul 24's Top Cyber News NOW! - Ep 1181" /></a>
+  <a href="https://www.youtube.com/watch?v=wIttpNsdLy4"><img src="https://img.youtube.com/vi/wIttpNsdLy4/maxresdefault.jpg" width="150" alt="What It Actually Takes to Become a Network Engineer Today" /></a>
   <a href="https://www.youtube.com/watch?v=w4x4gJ_yy9I"><img src="https://img.youtube.com/vi/w4x4gJ_yy9I/maxresdefault.jpg" width="150" alt="🔴 Jul 23's Top Cyber News NOW! - Ep 1180" /></a>
   <a href="https://www.youtube.com/watch?v=C4ziJepiaVw"><img src="https://img.youtube.com/vi/C4ziJepiaVw/maxresdefault.jpg" width="150" alt="OSINT Magic Tricks Revealed w/ Mishaal Khan" /></a>
   <a href="https://www.youtube.com/watch?v=0owGoqaV8N8"><img src="https://img.youtube.com/vi/0owGoqaV8N8/maxresdefault.jpg" width="150" alt="🔴 Jul 22's Top Cyber News NOW! - Ep 1179" /></a>
