@@ -4,6 +4,9 @@ Newest --> Oldest
 
 <h2> July-Feed </h1>
 <p>
+  <a href="https://www.youtube.com/watch?v=SKuJ60kD8wg"><img src="https://img.youtube.com/vi/SKuJ60kD8wg/maxresdefault.jpg" width="150" alt="Wordpress Situation is Absolutely Insane" /></a>
+  <a href="https://www.youtube.com/watch?v=BkOmhCuKal4"><img src="https://img.youtube.com/vi/BkOmhCuKal4/maxresdefault.jpg" width="150" alt="How CIA’s Hacking Tools Were Leaked" /></a>
+  <a href="https://www.youtube.com/watch?v=81TZvWDbyuU"><img src="https://img.youtube.com/vi/81TZvWDbyuU/maxresdefault.jpg" width="150" alt="Shadow AI: What every network engineer must know" /></a>
   <a href="https://www.youtube.com/watch?v=jr1aolDB8r4"><img src="https://img.youtube.com/vi/jr1aolDB8r4/maxresdefault.jpg" width="150" alt="🔴 Jul 24's Top Cyber News NOW! - Ep 1181" /></a>
   <a href="https://www.youtube.com/watch?v=wIttpNsdLy4"><img src="https://img.youtube.com/vi/wIttpNsdLy4/maxresdefault.jpg" width="150" alt="What It Actually Takes to Become a Network Engineer Today" /></a>
   <a href="https://www.youtube.com/watch?v=w4x4gJ_yy9I"><img src="https://img.youtube.com/vi/w4x4gJ_yy9I/maxresdefault.jpg" width="150" alt="🔴 Jul 23's Top Cyber News NOW! - Ep 1180" /></a>
