@@ -4,6 +4,9 @@ Newest --> Oldest
 
 <h2> July-Feed </h1>
 <p>
+  <a href="https://www.youtube.com/watch?v=ndZKLjvLZiQ"><img src="https://img.youtube.com/vi/ndZKLjvLZiQ/maxresdefault.jpg" width="150" alt="I Investigated Today's Most Powerful Hacking Groups" /></a>
+  <a href="https://www.youtube.com/watch?v=6C14E9sQ_-w"><img src="https://img.youtube.com/vi/6C14E9sQ_-w/maxresdefault.jpg" width="150" alt="Every Major AWS Outage (And Why They Keep Happening)" /></a>
+  <a href="https://www.youtube.com/watch?v=gIKjJODhcWA"><img src="https://img.youtube.com/vi/gIKjJODhcWA/maxresdefault.jpg" width="150" alt="OpenAI accidentally Hacked Hugging Face - BHIS - Talkin' Bout [infosec] News 2026-07-27" /></a>
   <a href="https://www.youtube.com/watch?v=RgYCFkZf5Vg"><img src="https://img.youtube.com/vi/RgYCFkZf5Vg/maxresdefault.jpg" width="150" alt="OpenAI Models Hacked Hugging Face | BHIS In Focus" /></a>
   <a href="https://www.youtube.com/watch?v=SKuJ60kD8wg"><img src="https://img.youtube.com/vi/SKuJ60kD8wg/maxresdefault.jpg" width="150" alt="Wordpress Situation is Absolutely Insane" /></a>
   <a href="https://www.youtube.com/watch?v=BkOmhCuKal4"><img src="https://img.youtube.com/vi/BkOmhCuKal4/maxresdefault.jpg" width="150" alt="How CIA’s Hacking Tools Were Leaked" /></a>
