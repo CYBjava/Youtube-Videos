@@ -4,6 +4,8 @@ Newest --> Oldest
 
 <h2> July-Feed </h1>
 <p>
+  <a href="https://www.youtube.com/watch?v=23D25nQFCNU"><img src="https://img.youtube.com/vi/23D25nQFCNU/maxresdefault.jpg" width="150" alt="AI Is Breaking Education" /></a>
+  <a href="https://www.youtube.com/watch?v=iBQ5H2tf-Eg"><img src="https://img.youtube.com/vi/iBQ5H2tf-Eg/maxresdefault.jpg" width="150" alt="Agent UEBA: Applying Data Science to AI Security with Tom Prigg" /></a>
   <a href="https://www.youtube.com/watch?v=ndZKLjvLZiQ"><img src="https://img.youtube.com/vi/ndZKLjvLZiQ/maxresdefault.jpg" width="150" alt="I Investigated Today's Most Powerful Hacking Groups" /></a>
   <a href="https://www.youtube.com/watch?v=6C14E9sQ_-w"><img src="https://img.youtube.com/vi/6C14E9sQ_-w/maxresdefault.jpg" width="150" alt="Every Major AWS Outage (And Why They Keep Happening)" /></a>
   <a href="https://www.youtube.com/watch?v=gIKjJODhcWA"><img src="https://img.youtube.com/vi/gIKjJODhcWA/maxresdefault.jpg" width="150" alt="OpenAI accidentally Hacked Hugging Face - BHIS - Talkin' Bout [infosec] News 2026-07-27" /></a>
