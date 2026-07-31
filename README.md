@@ -4,6 +4,7 @@ Newest --> Oldest
 
 <h2> July-Feed </h1>
 <p>
+  <a href="https://www.youtube.com/watch?v=4O2p8zjLn_k"><img src="https://img.youtube.com/vi/4O2p8zjLn_k/maxresdefault.jpg" width="150" alt="🔴 Jul 30's Top Cyber News NOW! - Ep 1185" /></a>
   <a href="https://www.youtube.com/watch?v=b2PESRl7De4"><img src="https://img.youtube.com/vi/b2PESRl7De4/maxresdefault.jpg" width="150" alt="2026 Cost of a Data Breach Report: AI Is Changing Cybersecurity" /></a>
   <a href="https://www.youtube.com/watch?v=23D25nQFCNU"><img src="https://img.youtube.com/vi/23D25nQFCNU/maxresdefault.jpg" width="150" alt="AI Is Breaking Education" /></a>
   <a href="https://www.youtube.com/watch?v=iBQ5H2tf-Eg"><img src="https://img.youtube.com/vi/iBQ5H2tf-Eg/maxresdefault.jpg" width="150" alt="Agent UEBA: Applying Data Science to AI Security with Tom Prigg" /></a>
