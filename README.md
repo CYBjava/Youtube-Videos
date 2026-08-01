@@ -4,6 +4,10 @@ Newest --> Oldest
 
 <h2> July-Feed </h1>
 <p>
+  <a href="https://www.youtube.com/watch?v=FZGGYCJCEhY"><img src="https://img.youtube.com/vi/FZGGYCJCEhY/maxresdefault.jpg" width="150" alt="🔴 Jul 31's Top Cyber News NOW! - Ep 1186" /></a>
+  <a href="https://www.youtube.com/watch?v=lX4JO4Z30wo"><img src="https://img.youtube.com/vi/lX4JO4Z30wo/maxresdefault.jpg" width="150" alt="What Malware looks like in 2026" /></a>
+  <a href="https://www.youtube.com/watch?v=tCzdgOg301Q"><img src="https://img.youtube.com/vi/tCzdgOg301Q/maxresdefault.jpg" width="150" alt="Big update on OpenAI hack situation" /></a>
+  <a href="https://www.youtube.com/watch?v=qvjRcZcW8CY"><img src="https://img.youtube.com/vi/qvjRcZcW8CY/maxresdefault.jpg" width="150" alt="LINUX isn't Hard Once You Understand This (File Directories)" /></a>
   <a href="https://www.youtube.com/watch?v=4O2p8zjLn_k"><img src="https://img.youtube.com/vi/4O2p8zjLn_k/maxresdefault.jpg" width="150" alt="🔴 Jul 30's Top Cyber News NOW! - Ep 1185" /></a>
   <a href="https://www.youtube.com/watch?v=b2PESRl7De4"><img src="https://img.youtube.com/vi/b2PESRl7De4/maxresdefault.jpg" width="150" alt="2026 Cost of a Data Breach Report: AI Is Changing Cybersecurity" /></a>
   <a href="https://www.youtube.com/watch?v=23D25nQFCNU"><img src="https://img.youtube.com/vi/23D25nQFCNU/maxresdefault.jpg" width="150" alt="AI Is Breaking Education" /></a>
