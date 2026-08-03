@@ -4,7 +4,11 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
-  
+
+  <a href="https://www.youtube.com/watch?v=2t6-AxpZXiA"><img src="https://img.youtube.com/vi/2t6-AxpZXiA/maxresdefault.jpg" width="150" alt="I Hacked This Popular Router. What I Found Should be Illegal." /></a>
+  <a href="https://www.youtube.com/watch?v=RCsBJz4W4bA"><img src="https://img.youtube.com/vi/RCsBJz4W4bA/maxresdefault.jpg" width="150" alt="Claude Opus 5 is a freak" /></a>
+  <a href="https://www.youtube.com/watch?v=zctRYZxXbb0"><img src="https://img.youtube.com/vi/zctRYZxXbb0/maxresdefault.jpg" width="150" alt="How Attackers Hijack Entra Despite MFA [Stop This Now]" /></a>
+  <a href="https://www.youtube.com/watch?v=TwwMVATsUA4"><img src="https://img.youtube.com/vi/TwwMVATsUA4/maxresdefault.jpg" width="150" alt="Microsoft Entra MADE EASY For Beginners!" /></a>
 </p>
 
 <h2> July-Feed </h1>
