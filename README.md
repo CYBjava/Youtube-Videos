@@ -5,6 +5,9 @@ Newest --> Oldest
 <h2> August-Feed </h2>
 <p>
 
+  <a href="https://www.youtube.com/watch?v=UCZqP9LZ7-Y"><img src="https://img.youtube.com/vi/UCZqP9LZ7-Y/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-08-03" /></a>
+  <a href="https://www.youtube.com/watch?v=B02YvWsKHAE"><img src="https://img.youtube.com/vi/B02YvWsKHAE/maxresdefault.jpg" width="150" alt="Troubleshooting the most common Printer issues | Real World IT Tickets (Ticket Thursday)" /></a>
+  <a href="https://www.youtube.com/watch?v=YLYdwlgwCZI"><img src="https://img.youtube.com/vi/YLYdwlgwCZI/maxresdefault.jpg" width="150" alt="Help Desk Tier 1, Top Trouble Tickets Training Video, Real Life Lesson to work Help Desk." /></a>
   <a href="https://www.youtube.com/watch?v=2t6-AxpZXiA"><img src="https://img.youtube.com/vi/2t6-AxpZXiA/maxresdefault.jpg" width="150" alt="I Hacked This Popular Router. What I Found Should be Illegal." /></a>
   <a href="https://www.youtube.com/watch?v=RCsBJz4W4bA"><img src="https://img.youtube.com/vi/RCsBJz4W4bA/maxresdefault.jpg" width="150" alt="Claude Opus 5 is a freak" /></a>
   <a href="https://www.youtube.com/watch?v=zctRYZxXbb0"><img src="https://img.youtube.com/vi/zctRYZxXbb0/maxresdefault.jpg" width="150" alt="How Attackers Hijack Entra Despite MFA [Stop This Now]" /></a>
