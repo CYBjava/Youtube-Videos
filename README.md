@@ -5,6 +5,10 @@ Newest --> Oldest
 <h2> August-Feed </h2>
 <p>
 
+  <a href="https://www.youtube.com/watch?v=TbOf4vslCyk"><img src="https://img.youtube.com/vi/TbOf4vslCyk/maxresdefault.jpg" width="150" alt="Why Modern Malware keeps getting through Windows Defender" /></a>
+  <a href="https://www.youtube.com/watch?v=GuWMKVTMD7k"><img src="https://img.youtube.com/vi/GuWMKVTMD7k/maxresdefault.jpg" width="150" alt="Active Directory - CompTIA A+ 220-1202 - 2.2" /></a>
+  <a href="https://www.youtube.com/watch?v=SR7tw10W5YU"><img src="https://img.youtube.com/vi/SR7tw10W5YU/maxresdefault.jpg" width="150" alt="Windows Security Settings - CompTIA A+ 220-1202 - 2.2" /></a>
+  <a href="https://www.youtube.com/watch?v=sYhp_r2x5mE"><img src="https://img.youtube.com/vi/sYhp_r2x5mE/maxresdefault.jpg" width="150" alt="How to Handle unfamiliar IT issues/tickets | Real World Tickets" /></a>
   <a href="https://www.youtube.com/watch?v=UCZqP9LZ7-Y"><img src="https://img.youtube.com/vi/UCZqP9LZ7-Y/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-08-03" /></a>
   <a href="https://www.youtube.com/watch?v=B02YvWsKHAE"><img src="https://img.youtube.com/vi/B02YvWsKHAE/maxresdefault.jpg" width="150" alt="Troubleshooting the most common Printer issues | Real World IT Tickets (Ticket Thursday)" /></a>
   <a href="https://www.youtube.com/watch?v=YLYdwlgwCZI"><img src="https://img.youtube.com/vi/YLYdwlgwCZI/maxresdefault.jpg" width="150" alt="Help Desk Tier 1, Top Trouble Tickets Training Video, Real Life Lesson to work Help Desk." /></a>
