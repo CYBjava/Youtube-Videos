@@ -4,7 +4,8 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
-
+  <a href="https://www.youtube.com/watch?v=LyI_TcsIhKU"><img src="https://img.youtube.com/vi/LyI_TcsIhKU/maxresdefault.jpg" width="150" alt="OS Level Age Verification is HERE!" /></a>
+  <a href="https://www.youtube.com/watch?v=mf6n7LIlAkQ"><img src="https://img.youtube.com/vi/mf6n7LIlAkQ/maxresdefault.jpg" width="150" alt="Job Hunting: In the Age of AI – Jason Blanchard" /></a>
   <a href="https://www.youtube.com/watch?v=TbOf4vslCyk"><img src="https://img.youtube.com/vi/TbOf4vslCyk/maxresdefault.jpg" width="150" alt="Why Modern Malware keeps getting through Windows Defender" /></a>
   <a href="https://www.youtube.com/watch?v=GuWMKVTMD7k"><img src="https://img.youtube.com/vi/GuWMKVTMD7k/maxresdefault.jpg" width="150" alt="Active Directory - CompTIA A+ 220-1202 - 2.2" /></a>
   <a href="https://www.youtube.com/watch?v=SR7tw10W5YU"><img src="https://img.youtube.com/vi/SR7tw10W5YU/maxresdefault.jpg" width="150" alt="Windows Security Settings - CompTIA A+ 220-1202 - 2.2" /></a>
