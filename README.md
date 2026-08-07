@@ -4,6 +4,7 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=thWcLGtxXlU"><img src="https://img.youtube.com/vi/thWcLGtxXlU/maxresdefault.jpg" width="150" alt="🔴 Aug 6's Top Cyber News NOW! - Ep 1189" /></a>
   <a href="https://www.youtube.com/watch?v=LyI_TcsIhKU"><img src="https://img.youtube.com/vi/LyI_TcsIhKU/maxresdefault.jpg" width="150" alt="OS Level Age Verification is HERE!" /></a>
   <a href="https://www.youtube.com/watch?v=mf6n7LIlAkQ"><img src="https://img.youtube.com/vi/mf6n7LIlAkQ/maxresdefault.jpg" width="150" alt="Job Hunting: In the Age of AI – Jason Blanchard" /></a>
   <a href="https://www.youtube.com/watch?v=TbOf4vslCyk"><img src="https://img.youtube.com/vi/TbOf4vslCyk/maxresdefault.jpg" width="150" alt="Why Modern Malware keeps getting through Windows Defender" /></a>
