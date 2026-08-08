@@ -4,6 +4,10 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  
+  <a href="https://www.youtube.com/watch?v=cLdp-C04Jww"><img src="https://img.youtube.com/vi/cLdp-C04Jww/maxresdefault.jpg" width="150" alt="🔴 Aug 7's Top Cyber News NOW! - Ep 1190" /></a>
+  <a href="https://www.youtube.com/watch?v=QwU9L0JMLsY"><img src="https://img.youtube.com/vi/QwU9L0JMLsY/maxresdefault.jpg" width="150" alt="I dove down the 7z rabbit hole" /></a>
+  <a href="https://www.youtube.com/watch?v=87DyyMV0kCY"><img src="https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg" width="150" alt="Black Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident" /></a>
   <a href="https://www.youtube.com/watch?v=thWcLGtxXlU"><img src="https://img.youtube.com/vi/thWcLGtxXlU/maxresdefault.jpg" width="150" alt="🔴 Aug 6's Top Cyber News NOW! - Ep 1189" /></a>
   <a href="https://www.youtube.com/watch?v=LyI_TcsIhKU"><img src="https://img.youtube.com/vi/LyI_TcsIhKU/maxresdefault.jpg" width="150" alt="OS Level Age Verification is HERE!" /></a>
   <a href="https://www.youtube.com/watch?v=mf6n7LIlAkQ"><img src="https://img.youtube.com/vi/mf6n7LIlAkQ/maxresdefault.jpg" width="150" alt="Job Hunting: In the Age of AI – Jason Blanchard" /></a>
