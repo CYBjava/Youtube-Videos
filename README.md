@@ -4,7 +4,10 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
-  
+  <a href="https://www.youtube.com/watch?v=nNZxudTaJKo"><img src="https://img.youtube.com/vi/nNZxudTaJKo/maxresdefault.jpg" width="150" alt="🔴 Aug 10's Top Cyber News NOW! - Ep 1191" /></a>
+  <a href="https://www.youtube.com/watch?v=jXDqGI1mGpM"><img src="https://img.youtube.com/vi/jXDqGI1mGpM/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-08-10" /></a>
+  <a href="https://www.youtube.com/watch?v=czXiP1mYtPE"><img src="https://img.youtube.com/vi/czXiP1mYtPE/maxresdefault.jpg" width="150" alt="Network Troubleshooting for Beginners: Fix Your Internet Step-by-Step" /></a>
+  <a href="https://www.youtube.com/watch?v=VNdeOpu9BoE"><img src="https://img.youtube.com/vi/VNdeOpu9BoE/maxresdefault.jpg" width="150" alt="Do You Need a VPN in 2026? Here’s the Truth" /></a>
   <a href="https://www.youtube.com/watch?v=cLdp-C04Jww"><img src="https://img.youtube.com/vi/cLdp-C04Jww/maxresdefault.jpg" width="150" alt="🔴 Aug 7's Top Cyber News NOW! - Ep 1190" /></a>
   <a href="https://www.youtube.com/watch?v=QwU9L0JMLsY"><img src="https://img.youtube.com/vi/QwU9L0JMLsY/maxresdefault.jpg" width="150" alt="I dove down the 7z rabbit hole" /></a>
   <a href="https://www.youtube.com/watch?v=87DyyMV0kCY"><img src="https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg" width="150" alt="Black Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident" /></a>
