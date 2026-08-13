@@ -4,6 +4,7 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=Q0Vx05NfwrY"><img src="https://img.youtube.com/vi/Q0Vx05NfwrY/maxresdefault.jpg" width="150" alt="🔴 Aug 12's Top Cyber News NOW! - Ep 1193" /></a>
   <a href="https://www.youtube.com/watch?v=vclB2cxdBRE"><img src="https://img.youtube.com/vi/vclB2cxdBRE/maxresdefault.jpg" width="150" alt="Inside Enterprise Windows Patching: Clients, Servers & Compliance" /></a>
   <a href="https://www.youtube.com/watch?v=nNZxudTaJKo"><img src="https://img.youtube.com/vi/nNZxudTaJKo/maxresdefault.jpg" width="150" alt="🔴 Aug 10's Top Cyber News NOW! - Ep 1191" /></a>
   <a href="https://www.youtube.com/watch?v=jXDqGI1mGpM"><img src="https://img.youtube.com/vi/jXDqGI1mGpM/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-08-10" /></a>
