@@ -4,6 +4,10 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=vF8HvgFywWY"><img src="https://img.youtube.com/vi/vF8HvgFywWY/maxresdefault.jpg" width="150" alt="🔴 Aug 13's Top Cyber News NOW! - Ep 1194" /></a>
+  <a href="https://www.youtube.com/watch?v=VNYe3Cnk5Pw"><img src="https://img.youtube.com/vi/VNYe3Cnk5Pw/maxresdefault.jpg" width="150" alt="Black Hat USA 2026 | Keynote: Vulnerability Research in the Agentic Age" /></a>
+  <a href="https://www.youtube.com/watch?v=6jD8GfTk_Po"><img src="https://img.youtube.com/vi/6jD8GfTk_Po/maxresdefault.jpg" width="150" alt="Black Hat Asia 2026 | Keynote: Privacy is the Captain. Security is the Practice." /></a>
+  <a href="https://www.youtube.com/watch?v=NKS8Gbt6qUk"><img src="https://img.youtube.com/vi/NKS8Gbt6qUk/maxresdefault.jpg" width="150" alt="I Found an MFA-Bypassing Phishing Kit on the Dark Web" /></a>
   <a href="https://www.youtube.com/watch?v=Q0Vx05NfwrY"><img src="https://img.youtube.com/vi/Q0Vx05NfwrY/maxresdefault.jpg" width="150" alt="🔴 Aug 12's Top Cyber News NOW! - Ep 1193" /></a>
   <a href="https://www.youtube.com/watch?v=vclB2cxdBRE"><img src="https://img.youtube.com/vi/vclB2cxdBRE/maxresdefault.jpg" width="150" alt="Inside Enterprise Windows Patching: Clients, Servers & Compliance" /></a>
   <a href="https://www.youtube.com/watch?v=nNZxudTaJKo"><img src="https://img.youtube.com/vi/nNZxudTaJKo/maxresdefault.jpg" width="150" alt="🔴 Aug 10's Top Cyber News NOW! - Ep 1191" /></a>
