@@ -4,6 +4,8 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=rHwNz_HEVNw"><img src="https://img.youtube.com/vi/rHwNz_HEVNw/maxresdefault.jpg" width="150" alt="dude wtf" /></a>
+  <a href="https://www.youtube.com/watch?v=NQM9x9kxqUs"><img src="https://img.youtube.com/vi/NQM9x9kxqUs/maxresdefault.jpg" width="150" alt="Your Phone Can Connect to Fake Cell Towers" /></a>
   <a href="https://www.youtube.com/watch?v=vF8HvgFywWY"><img src="https://img.youtube.com/vi/vF8HvgFywWY/maxresdefault.jpg" width="150" alt="🔴 Aug 13's Top Cyber News NOW! - Ep 1194" /></a>
   <a href="https://www.youtube.com/watch?v=VNYe3Cnk5Pw"><img src="https://img.youtube.com/vi/VNYe3Cnk5Pw/maxresdefault.jpg" width="150" alt="Black Hat USA 2026 | Keynote: Vulnerability Research in the Agentic Age" /></a>
   <a href="https://www.youtube.com/watch?v=6jD8GfTk_Po"><img src="https://img.youtube.com/vi/6jD8GfTk_Po/maxresdefault.jpg" width="150" alt="Black Hat Asia 2026 | Keynote: Privacy is the Captain. Security is the Practice." /></a>
