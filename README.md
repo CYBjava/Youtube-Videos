@@ -4,6 +4,9 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=8UBv8pWH3Kw"><img src="https://img.youtube.com/vi/8UBv8pWH3Kw/maxresdefault.jpg" width="150" alt="The Failed Experiment That Broke The Internet" /></a>
+  <a href="https://www.youtube.com/watch?v=_M0of-6aLpk"><img src="https://img.youtube.com/vi/_M0of-6aLpk/maxresdefault.jpg" width="150" alt="Black Hat Asia 2026 | Post-Quantum Cryptography: A Realistic Guide to Manage the Transition" /></a>
+  <a href="https://www.youtube.com/watch?v=TDCM0zp1hJ4"><img src="https://img.youtube.com/vi/TDCM0zp1hJ4/maxresdefault.jpg" width="150" alt="This is the Real Cybersecurity Problem" /></a>
   <a href="https://www.youtube.com/watch?v=rHwNz_HEVNw"><img src="https://img.youtube.com/vi/rHwNz_HEVNw/maxresdefault.jpg" width="150" alt="dude wtf" /></a>
   <a href="https://www.youtube.com/watch?v=NQM9x9kxqUs"><img src="https://img.youtube.com/vi/NQM9x9kxqUs/maxresdefault.jpg" width="150" alt="Your Phone Can Connect to Fake Cell Towers" /></a>
   <a href="https://www.youtube.com/watch?v=vF8HvgFywWY"><img src="https://img.youtube.com/vi/vF8HvgFywWY/maxresdefault.jpg" width="150" alt="🔴 Aug 13's Top Cyber News NOW! - Ep 1194" /></a>
