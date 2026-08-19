@@ -4,6 +4,11 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=XbRuSuG8Y4U"><img src="https://img.youtube.com/vi/XbRuSuG8Y4U/maxresdefault.jpg" width="150" alt="Agentic Terminology | Episode 64" /></a>
+  <a href="https://www.youtube.com/watch?v=IA6oBdyJt9M"><img src="https://img.youtube.com/vi/IA6oBdyJt9M/maxresdefault.jpg" width="150" alt="OpenAI / Hugging Face Breach Walkthrough | Episode 65" /></a>
+  <a href="https://www.youtube.com/watch?v=pFNWWfHnXd0"><img src="https://img.youtube.com/vi/pFNWWfHnXd0/maxresdefault.jpg" width="150" alt="Banning Open Weight Models | Episode 66" /></a>
+  <a href="https://www.youtube.com/watch?v=Hqrb5VSWzcA"><img src="https://img.youtube.com/vi/Hqrb5VSWzcA/maxresdefault.jpg" width="150" alt="🔴 Aug 18's Top Cyber News NOW! - Ep 1197" /></a>
+  <a href="https://www.youtube.com/watch?v=AKKRfHY78Gw"><img src="https://img.youtube.com/vi/AKKRfHY78Gw/maxresdefault.jpg" width="150" alt="White House Announces "Digital Letters of Marque" - BHIS - Talkin' Bout [infosec] News 2026-08-17" /></a>
   <a href="https://www.youtube.com/watch?v=8UBv8pWH3Kw"><img src="https://img.youtube.com/vi/8UBv8pWH3Kw/maxresdefault.jpg" width="150" alt="The Failed Experiment That Broke The Internet" /></a>
   <a href="https://www.youtube.com/watch?v=_M0of-6aLpk"><img src="https://img.youtube.com/vi/_M0of-6aLpk/maxresdefault.jpg" width="150" alt="Black Hat Asia 2026 | Post-Quantum Cryptography: A Realistic Guide to Manage the Transition" /></a>
   <a href="https://www.youtube.com/watch?v=TDCM0zp1hJ4"><img src="https://img.youtube.com/vi/TDCM0zp1hJ4/maxresdefault.jpg" width="150" alt="This is the Real Cybersecurity Problem" /></a>
