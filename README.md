@@ -4,6 +4,8 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=FmF8cjViSlI"><img src="https://img.youtube.com/vi/FmF8cjViSlI/maxresdefault.jpg" width="150" alt="How Information Stealers Work w/ Eric and Olivier" /></a>
+  <a href="https://www.youtube.com/watch?v=W1ozPBXw7Ok"><img src="https://img.youtube.com/vi/W1ozPBXw7Ok/maxresdefault.jpg" width="150" alt="🔴 Aug 19's Top Cyber News NOW! - Ep 1198" /></a>
   <a href="https://www.youtube.com/watch?v=XbRuSuG8Y4U"><img src="https://img.youtube.com/vi/XbRuSuG8Y4U/maxresdefault.jpg" width="150" alt="Agentic Terminology | Episode 64" /></a>
   <a href="https://www.youtube.com/watch?v=IA6oBdyJt9M"><img src="https://img.youtube.com/vi/IA6oBdyJt9M/maxresdefault.jpg" width="150" alt="OpenAI / Hugging Face Breach Walkthrough | Episode 65" /></a>
   <a href="https://www.youtube.com/watch?v=pFNWWfHnXd0"><img src="https://img.youtube.com/vi/pFNWWfHnXd0/maxresdefault.jpg" width="150" alt="Banning Open Weight Models | Episode 66" /></a>
