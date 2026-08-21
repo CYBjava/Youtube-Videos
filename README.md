@@ -4,6 +4,8 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=L2ehWbxphKc"><img src="https://img.youtube.com/vi/L2ehWbxphKc/maxresdefault.jpg" width="150" alt="im shocked more people aren't talking about this" /></a>
+  <a href="https://www.youtube.com/watch?v=Rn1FI1zImVg"><img src="https://img.youtube.com/vi/Rn1FI1zImVg/maxresdefault.jpg" width="150" alt="🔴 Aug 20's Top Cyber News NOW! - Ep 1199" /></a>
   <a href="https://www.youtube.com/watch?v=FmF8cjViSlI"><img src="https://img.youtube.com/vi/FmF8cjViSlI/maxresdefault.jpg" width="150" alt="How Information Stealers Work w/ Eric and Olivier" /></a>
   <a href="https://www.youtube.com/watch?v=W1ozPBXw7Ok"><img src="https://img.youtube.com/vi/W1ozPBXw7Ok/maxresdefault.jpg" width="150" alt="🔴 Aug 19's Top Cyber News NOW! - Ep 1198" /></a>
   <a href="https://www.youtube.com/watch?v=XbRuSuG8Y4U"><img src="https://img.youtube.com/vi/XbRuSuG8Y4U/maxresdefault.jpg" width="150" alt="Agentic Terminology | Episode 64" /></a>
