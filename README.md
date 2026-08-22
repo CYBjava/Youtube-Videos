@@ -4,6 +4,8 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=PNWABi6Dcl8"><img src="https://img.youtube.com/vi/PNWABi6Dcl8/maxresdefault.jpg" width="150" alt="Massive apple hack" /></a>
+  <a href="https://www.youtube.com/watch?v=YCdYW68HuBU"><img src="https://img.youtube.com/vi/YCdYW68HuBU/maxresdefault.jpg" width="150" alt="Fast-track Reports into Ready-Made Hypotheses with AI | Lauren Proehl" /></a>
   <a href="https://www.youtube.com/watch?v=L2ehWbxphKc"><img src="https://img.youtube.com/vi/L2ehWbxphKc/maxresdefault.jpg" width="150" alt="im shocked more people aren't talking about this" /></a>
   <a href="https://www.youtube.com/watch?v=Rn1FI1zImVg"><img src="https://img.youtube.com/vi/Rn1FI1zImVg/maxresdefault.jpg" width="150" alt="🔴 Aug 20's Top Cyber News NOW! - Ep 1199" /></a>
   <a href="https://www.youtube.com/watch?v=FmF8cjViSlI"><img src="https://img.youtube.com/vi/FmF8cjViSlI/maxresdefault.jpg" width="150" alt="How Information Stealers Work w/ Eric and Olivier" /></a>
