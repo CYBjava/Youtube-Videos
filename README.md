@@ -4,6 +4,9 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=N3-iDfRnaAQ"><img src="https://img.youtube.com/vi/N3-iDfRnaAQ/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-08-24" /></a>
+  <a href="https://www.youtube.com/watch?v=a5r0tXawx7A"><img src="https://img.youtube.com/vi/a5r0tXawx7A/maxresdefault.jpg" width="150" alt="How North Korean Hackers end up in your Network" /></a>
+  <a href="https://www.youtube.com/watch?v=c-BRAH8u-zg"><img src="https://img.youtube.com/vi/c-BRAH8u-zg/maxresdefault.jpg" width="150" alt="🔴 Aug 24's Top Cyber News NOW! - Ep 1201" /></a>
   <a href="https://www.youtube.com/watch?v=PNWABi6Dcl8"><img src="https://img.youtube.com/vi/PNWABi6Dcl8/maxresdefault.jpg" width="150" alt="Massive apple hack" /></a>
   <a href="https://www.youtube.com/watch?v=YCdYW68HuBU"><img src="https://img.youtube.com/vi/YCdYW68HuBU/maxresdefault.jpg" width="150" alt="Fast-track Reports into Ready-Made Hypotheses with AI | Lauren Proehl" /></a>
   <a href="https://www.youtube.com/watch?v=L2ehWbxphKc"><img src="https://img.youtube.com/vi/L2ehWbxphKc/maxresdefault.jpg" width="150" alt="im shocked more people aren't talking about this" /></a>
