@@ -4,6 +4,9 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=cCMzeKjH5v4"><img src="https://img.youtube.com/vi/cCMzeKjH5v4/maxresdefault.jpg" width="150" alt="🔴 Aug 26's Top Cyber News NOW! - Ep 1203" /></a>
+  <a href="https://www.youtube.com/watch?v=Q6nQk_aTGb4"><img src="https://img.youtube.com/vi/Q6nQk_aTGb4/maxresdefault.jpg" width="150" alt="Risk Management and NIST Cybersecurity Framework Fundamentals - Lunch & Learn" /></a>
+  <a href="https://www.youtube.com/watch?v=MqHGHJoTYoo"><img src="https://img.youtube.com/vi/MqHGHJoTYoo/default.jpg" width="150" alt="Legal, Insurance & Incident Response | John Danyluk, David Vanalek, Patterson Cake, Troy Wojewoda" /></a>
   <a href="https://www.youtube.com/watch?v=WyPmt8CE5L4"><img src="https://img.youtube.com/vi/WyPmt8CE5L4/maxresdefault.jpg" width="150" alt="DEF CON - noRecognition: Could a pattern on clothing fool Facial Recognition? - Bill Swearingen" /></a>
   <a href="https://www.youtube.com/watch?v=N3-iDfRnaAQ"><img src="https://img.youtube.com/vi/N3-iDfRnaAQ/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-08-24" /></a>
   <a href="https://www.youtube.com/watch?v=a5r0tXawx7A"><img src="https://img.youtube.com/vi/a5r0tXawx7A/maxresdefault.jpg" width="150" alt="How North Korean Hackers end up in your Network" /></a>
