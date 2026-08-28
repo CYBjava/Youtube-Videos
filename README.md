@@ -4,6 +4,7 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=1MlPO3cSxL4"><img src="https://img.youtube.com/vi/1MlPO3cSxL4/maxresdefault.jpg" width="150" alt="🔴 Aug 27's Top Cyber News NOW! - Ep 1204" /></a>
   <a href="https://www.youtube.com/watch?v=cCMzeKjH5v4"><img src="https://img.youtube.com/vi/cCMzeKjH5v4/maxresdefault.jpg" width="150" alt="🔴 Aug 26's Top Cyber News NOW! - Ep 1203" /></a>
   <a href="https://www.youtube.com/watch?v=Q6nQk_aTGb4"><img src="https://img.youtube.com/vi/Q6nQk_aTGb4/maxresdefault.jpg" width="150" alt="Risk Management and NIST Cybersecurity Framework Fundamentals - Lunch & Learn" /></a>
   <a href="https://www.youtube.com/watch?v=MqHGHJoTYoo"><img src="https://img.youtube.com/vi/MqHGHJoTYoo/default.jpg" width="150" alt="Legal, Insurance & Incident Response | John Danyluk, David Vanalek, Patterson Cake, Troy Wojewoda" /></a>
