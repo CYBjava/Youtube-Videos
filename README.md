@@ -4,6 +4,9 @@ Newest --> Oldest
 
 <h2> August-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=Ed3hqT9P2XE"><img src="https://img.youtube.com/vi/Ed3hqT9P2XE/maxresdefault.jpg" width="150" alt="Augmented Cloud Hacking with AI Workflows | BHIS Webcast" /></a>
+  <a href="https://www.youtube.com/watch?v=HSjbCQtTTVk"><img src="https://img.youtube.com/vi/HSjbCQtTTVk/maxresdefault.jpg" width="150" alt="Undetected Steam Malware: Sent by Viewer" /></a>
+  <a href="https://www.youtube.com/watch?v=vWDAR9IL6hI"><img src="https://img.youtube.com/vi/vWDAR9IL6hI/maxresdefault.jpg" width="150" alt="🔴 Aug 28's Top Cyber News NOW! - Ep 1205" /></a>
   <a href="https://www.youtube.com/watch?v=1MlPO3cSxL4"><img src="https://img.youtube.com/vi/1MlPO3cSxL4/maxresdefault.jpg" width="150" alt="🔴 Aug 27's Top Cyber News NOW! - Ep 1204" /></a>
   <a href="https://www.youtube.com/watch?v=cCMzeKjH5v4"><img src="https://img.youtube.com/vi/cCMzeKjH5v4/maxresdefault.jpg" width="150" alt="🔴 Aug 26's Top Cyber News NOW! - Ep 1203" /></a>
   <a href="https://www.youtube.com/watch?v=Q6nQk_aTGb4"><img src="https://img.youtube.com/vi/Q6nQk_aTGb4/maxresdefault.jpg" width="150" alt="Risk Management and NIST Cybersecurity Framework Fundamentals - Lunch & Learn" /></a>
