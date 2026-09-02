@@ -3,7 +3,8 @@
 Newest --> Oldest
 <h2> September-Feed </h2>
 <p>
-  
+  <a href="https://www.youtube.com/watch?v=ZmvUcIEiYR0"><img src="https://img.youtube.com/vi/ZmvUcIEiYR0/maxresdefault.jpg" width="150" alt="🔴 Sep 1's Top Cyber News NOW! - Ep 1235" /></a>
+  <a href="https://www.youtube.com/watch?v=qMaEVwZJ0oU"><img src="https://img.youtube.com/vi/qMaEVwZJ0oU/maxresdefault.jpg" width="150" alt="The New Reality of AI Attacks: Why Evidence Matters" /></a>
 </p>
 
 <h2> August-Feed </h2>
