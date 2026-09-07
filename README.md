@@ -3,6 +3,11 @@
 Newest --> Oldest
 <h2> September-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=I5XcC49BGQ4"><img src="https://img.youtube.com/vi/I5XcC49BGQ4/maxresdefault.jpg" width="150" alt="Age Verification Is Becoming a Surveillance Tool" /></a>
+  <a href="https://www.youtube.com/watch?v=gXWiVVB49Ng"><img src="https://img.youtube.com/vi/gXWiVVB49Ng/maxresdefault.jpg" width="150" alt="How to tell if your PC is Hacked: Ultimate Edition" /></a>
+  <a href="https://www.youtube.com/watch?v=ngyFRCNq0Yc"><img src="https://img.youtube.com/vi/ngyFRCNq0Yc/maxresdefault.jpg" width="150" alt="GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS" /></a>
+  <a href="https://www.youtube.com/watch?v=E_HMKnxIRWU"><img src="https://img.youtube.com/vi/E_HMKnxIRWU/maxresdefault.jpg" width="150" alt="Data Becomes Code | Episode 68" /></a>
+  <a href="https://www.youtube.com/watch?v=FUmWR1ZRzb8"><img src="https://img.youtube.com/vi/FUmWR1ZRzb8/maxresdefault.jpg" width="150" alt="Who is Responsible for an AI-Caused Breach? | Episode 67" /></a>
   <a href="https://www.youtube.com/watch?v=TrtCJaz0sdo"><img src="https://img.youtube.com/vi/TrtCJaz0sdo/maxresdefault.jpg" width="150" alt="Google Researchers Hacked the Pixel Phone using Audio Messages" /></a>
   <a href="https://www.youtube.com/watch?v=cNmq3bZjpyY"><img src="https://img.youtube.com/vi/cNmq3bZjpyY/maxresdefault.jpg" width="150" alt="🔴 Sep 3's Top Cyber News NOW! - Ep 1237" /></a>
   <a href="https://www.youtube.com/watch?v=ZmvUcIEiYR0"><img src="https://img.youtube.com/vi/ZmvUcIEiYR0/maxresdefault.jpg" width="150" alt="🔴 Sep 1's Top Cyber News NOW! - Ep 1235" /></a>
