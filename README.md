@@ -3,6 +3,7 @@
 Newest --> Oldest
 <h2> September-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=6IFVTcM28KA"><img src="https://img.youtube.com/vi/6IFVTcM28KA/maxresdefault.jpg" width="150" alt="216,000,000 Spy TVs | The LG Smart TV Problem" /></a>
   <a href="https://www.youtube.com/watch?v=I5XcC49BGQ4"><img src="https://img.youtube.com/vi/I5XcC49BGQ4/maxresdefault.jpg" width="150" alt="Age Verification Is Becoming a Surveillance Tool" /></a>
   <a href="https://www.youtube.com/watch?v=gXWiVVB49Ng"><img src="https://img.youtube.com/vi/gXWiVVB49Ng/maxresdefault.jpg" width="150" alt="How to tell if your PC is Hacked: Ultimate Edition" /></a>
   <a href="https://www.youtube.com/watch?v=ngyFRCNq0Yc"><img src="https://img.youtube.com/vi/ngyFRCNq0Yc/maxresdefault.jpg" width="150" alt="GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS" /></a>
