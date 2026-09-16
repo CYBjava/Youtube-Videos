@@ -3,6 +3,9 @@
 Newest --> Oldest
 <h2> September-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=lzBGKUJnv-g"><img src="https://img.youtube.com/vi/lzBGKUJnv-g/maxresdefault.jpg" width="150" alt="These Employees are not REAL" /></a>
+  <a href="https://www.youtube.com/watch?v=oGjLP6kcXWg"><img src="https://img.youtube.com/vi/oGjLP6kcXWg/maxresdefault.jpg" width="150" alt="How Hackers Steal Your Accounts Even With 2FA Enabled" /></a>
+  <a href="https://www.youtube.com/watch?v=cr-O0xUuHgc"><img src="https://img.youtube.com/vi/cr-O0xUuHgc/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-09-14" /></a>
   <a href="https://www.youtube.com/watch?v=YL0ebWVVo9Y"><img src="https://img.youtube.com/vi/YL0ebWVVo9Y/maxresdefault.jpg" width="150" alt="Agentic Skills | Episode 69" /></a>
   <a href="https://www.youtube.com/watch?v=-XpKpil4IM8"><img src="https://img.youtube.com/vi/-XpKpil4IM8/maxresdefault.jpg" width="150" alt="The Most Successful Virus Ever Written: ILOVEYOU" /></a>
   <a href="https://www.youtube.com/watch?v=R4-WX-DPlF4"><img src="https://img.youtube.com/vi/R4-WX-DPlF4/maxresdefault.jpg" width="150" alt="🔴 Sep 11's Top Cyber News NOW! - Ep 1242" /></a>
