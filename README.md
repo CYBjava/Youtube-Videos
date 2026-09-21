@@ -3,6 +3,12 @@
 Newest --> Oldest
 <h2> September-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=EaXHfuHRWwg"><img src="https://img.youtube.com/vi/EaXHfuHRWwg/maxresdefault.jpg" width="150" alt="How Senior Engineers Actually Think About System Design & Architecture | Full Course" /></a>
+  <a href="https://www.youtube.com/watch?v=AmHYfEW7CCg"><img src="https://img.youtube.com/vi/AmHYfEW7CCg/maxresdefault.jpg" width="150" alt="3AM Observability Crash Course (A True Story)" /></a>
+  <a href="https://www.youtube.com/watch?v=LoZ2kpFnqB8"><img src="https://img.youtube.com/vi/LoZ2kpFnqB8/maxresdefault.jpg" width="150" alt="Friday Night Database Recovery Crash Course (A True Story)" /></a>
+  <a href="https://www.youtube.com/watch?v=iADDkYU-yOc"><img src="https://img.youtube.com/vi/iADDkYU-yOc/maxresdefault.jpg" width="150" alt="The revolut data "breach" is crazy" /></a>
+  <a href="https://www.youtube.com/watch?v=cGv79hjL_jY"><img src="https://img.youtube.com/vi/cGv79hjL_jY/maxresdefault.jpg" width="150" alt="Revolut Just Had the Most Embarrassing Data Breach" /></a>
+  <a href="https://www.youtube.com/watch?v=MMU2jZauW4M"><img src="https://img.youtube.com/vi/MMU2jZauW4M/maxresdefault.jpg" width="150" alt="🔴 Sep 17's Top Cyber News NOW! - Ep 1246" /></a>
   <a href="https://www.youtube.com/watch?v=dDTMQspq0AM"><img src="https://img.youtube.com/vi/dDTMQspq0AM/maxresdefault.jpg" width="150" alt="🔴 Sep 16's Top Cyber News NOW! - Ep 1245" /></a>
   <a href="https://www.youtube.com/watch?v=lzBGKUJnv-g"><img src="https://img.youtube.com/vi/lzBGKUJnv-g/maxresdefault.jpg" width="150" alt="These Employees are not REAL" /></a>
   <a href="https://www.youtube.com/watch?v=oGjLP6kcXWg"><img src="https://img.youtube.com/vi/oGjLP6kcXWg/maxresdefault.jpg" width="150" alt="How Hackers Steal Your Accounts Even With 2FA Enabled" /></a>
