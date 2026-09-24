@@ -3,6 +3,9 @@
 Newest --> Oldest
 <h2> September-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=kzdW0sFtIvQ"><img src="https://img.youtube.com/vi/kzdW0sFtIvQ/maxresdefault.jpg" width="150" alt="🔴 Sep 22's Top Cyber News NOW! - Ep 1249" /></a>
+  <a href="https://www.youtube.com/watch?v=D6p2-IVRrrk"><img src="https://img.youtube.com/vi/D6p2-IVRrrk/maxresdefault.jpg" width="150" alt="oh my god" /></a>
+  <a href="https://www.youtube.com/watch?v=lS0mXG5n9wU"><img src="https://img.youtube.com/vi/lS0mXG5n9wU/maxresdefault.jpg" width="150" alt="Google’s Gemini Agent Escapes Containment – BHIS - Talkin' Bout [infosec] News 2026-09-21" /></a>
   <a href="https://www.youtube.com/watch?v=EaXHfuHRWwg"><img src="https://img.youtube.com/vi/EaXHfuHRWwg/maxresdefault.jpg" width="150" alt="How Senior Engineers Actually Think About System Design & Architecture | Full Course" /></a>
   <a href="https://www.youtube.com/watch?v=AmHYfEW7CCg"><img src="https://img.youtube.com/vi/AmHYfEW7CCg/maxresdefault.jpg" width="150" alt="3AM Observability Crash Course (A True Story)" /></a>
   <a href="https://www.youtube.com/watch?v=LoZ2kpFnqB8"><img src="https://img.youtube.com/vi/LoZ2kpFnqB8/maxresdefault.jpg" width="150" alt="Friday Night Database Recovery Crash Course (A True Story)" /></a>
