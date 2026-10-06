@@ -1,8 +1,20 @@
 <h1> Youtube-Videos </h2>
 
 Newest --> Oldest
+<h2>October-Feed</h2>
+<p>
+  <a href="https://www.youtube.com/watch?v=nuhh_KfCz9M"><img src="https://img.youtube.com/vi/nuhh_KfCz9M/maxresdefault.jpg" width="150" alt="your house needs TWO networks (here's why)" /></a>
+  <a href="https://www.youtube.com/watch?v=ujkD4SxPKOI"><img src="https://img.youtube.com/vi/ujkD4SxPKOI/maxresdefault.jpg" width="150" alt="AI Just Crossed the Terrifying Line - Now What?" /></a>
+  <a href="https://www.youtube.com/watch?v=sKlonP-cZm8"><img src="https://img.youtube.com/vi/sKlonP-cZm8/maxresdefault.jpg" width="150" alt="🔴 Oct 2's Top Cyber News NOW! - Ep 1257" /></a>
+  <a href="https://www.youtube.com/watch?v=xY4fqKU4tQA"><img src="https://img.youtube.com/vi/xY4fqKU4tQA/maxresdefault.jpg" width="150" alt="How Hackers Trick AI Into Giving Up Secrets (Demos and free labs)" /></a>
+  <a href="https://www.youtube.com/watch?v=44tfRcqzdwg"><img src="https://img.youtube.com/vi/44tfRcqzdwg/maxresdefault.jpg" width="150" alt="How did the FBI get hacked? Shiny Hunters" /></a>
+</p>
+
 <h2> September-Feed </h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=lFCXViA9maE"><img src="https://img.youtube.com/vi/lFCXViA9maE/maxresdefault.jpg" width="150" alt="🔴 Sep 29's Top Cyber News NOW! - Ep 1254" /></a>
+  <a href="https://www.youtube.com/watch?v=Ng_ar_6vsOM"><img src="https://img.youtube.com/vi/Ng_ar_6vsOM/maxresdefault.jpg" width="150" alt="AI Agents Go Rogue: Where’s the Accountability? — BHIS - Talkin' Bout [infosec] News 2026-09-28" /></a>
+  <a href="https://www.youtube.com/watch?v=vcv8NZmtOoA"><img src="https://img.youtube.com/vi/vcv8NZmtOoA/maxresdefault.jpg" width="150" alt="🔴 Sep 28's Top Cyber News NOW! - Ep 1253" /></a>
   <a href="https://www.youtube.com/watch?v=891Z_3iXDCk"><img src="https://img.youtube.com/vi/891Z_3iXDCk/maxresdefault.jpg" width="150" alt="Penetration Tests: Know Before You Buy" /></a>
   <a href="https://www.youtube.com/watch?v=5J4i3TCgqXc"><img src="https://img.youtube.com/vi/5J4i3TCgqXc/maxresdefault.jpg" width="150" alt="How smart users still get hacked by Malware" /></a>
   <a href="https://www.youtube.com/watch?v=zBRQR_XOsEE"><img src="https://img.youtube.com/vi/zBRQR_XOsEE/maxresdefault.jpg" width="150" alt="government hack situation is absolutely insane" /></a>
