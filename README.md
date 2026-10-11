@@ -3,6 +3,14 @@
 Newest --> Oldest
 <h2>October-Feed</h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=1SOW87DO6Yg"><img src="https://img.youtube.com/vi/1SOW87DO6Yg/maxresdefault.jpg" width="150" alt="Sysmon | Free Lab Fridays [Full Lab Walkthrough]" /></a>
+  <a href="https://www.youtube.com/watch?v=0QNuCmW2P6U"><img src="https://img.youtube.com/vi/0QNuCmW2P6U/maxresdefault.jpg" width="150" alt="Will AI Take Over? | Episode 71" /></a>
+  <a href="https://www.youtube.com/watch?v=exATQJD-i-0"><img src="https://img.youtube.com/vi/exATQJD-i-0/maxresdefault.jpg" width="150" alt="OWASP Agentic Top 10 [Part 2] | Episode 72" /></a>
+  <a href="https://www.youtube.com/watch?v=Zsl_n5bU8vw"><img src="https://img.youtube.com/vi/Zsl_n5bU8vw/maxresdefault.jpg" width="150" alt="OWASP Agentic Top 10 [Part 1] | Episode 70" /></a>
+  <a href="https://www.youtube.com/watch?v=77nLO0LXcuU"><img src="https://img.youtube.com/vi/77nLO0LXcuU/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-10-07" /></a>
+  <a href="https://www.youtube.com/watch?v=aRZDpYNmsJw"><img src="https://img.youtube.com/vi/aRZDpYNmsJw/maxresdefault.jpg" width="150" alt="🔴 Oct 7's Top Cyber News NOW! - Ep 1260" /></a>
+  <a href="https://www.youtube.com/watch?v=dzsu4ECd468"><img src="https://img.youtube.com/vi/dzsu4ECd468/maxresdefault.jpg" width="150" alt="🔴 Oct 5's Top Cyber News NOW! - Ep 1258" /></a>
+  <a href="https://www.youtube.com/watch?v=hNWExSI0Drw"><img src="https://img.youtube.com/vi/hNWExSI0Drw/maxresdefault.jpg" width="150" alt="Most dangerous Malware of today: Crysome" /></a>
   <a href="https://www.youtube.com/watch?v=nuhh_KfCz9M"><img src="https://img.youtube.com/vi/nuhh_KfCz9M/maxresdefault.jpg" width="150" alt="your house needs TWO networks (here's why)" /></a>
   <a href="https://www.youtube.com/watch?v=ujkD4SxPKOI"><img src="https://img.youtube.com/vi/ujkD4SxPKOI/maxresdefault.jpg" width="150" alt="AI Just Crossed the Terrifying Line - Now What?" /></a>
   <a href="https://www.youtube.com/watch?v=DLlLrlgEKb4"><img src="https://img.youtube.com/vi/DLlLrlgEKb4/maxresdefault.jpg" width="150" alt="Your Employee Got Hacked. Now What? | Ep 198" /></a>
