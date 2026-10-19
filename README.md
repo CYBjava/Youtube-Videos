@@ -3,6 +3,12 @@
 Newest --> Oldest
 <h2>October-Feed</h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=f7Jv5gDjGsA"><img src="https://img.youtube.com/vi/f7Jv5gDjGsA/maxresdefault.jpg" width="150" alt="Learn Malware Analysis with Ghidra and x64dbg (for free)" /></a>
+  <a href="https://www.youtube.com/watch?v=iL4U6b2NfJo"><img src="https://img.youtube.com/vi/iL4U6b2NfJo/maxresdefault.jpg" width="150" alt="This Chinese AI Github project could hack your bank!" /></a>
+  <a href="https://www.youtube.com/watch?v=wIe3eDfGKUo"><img src="https://img.youtube.com/vi/wIe3eDfGKUo/maxresdefault.jpg" width="150" alt="Has AI Solved Reverse Engineering?" /></a>
+  <a href="https://www.youtube.com/watch?v=9MjWU8usnBU"><img src="https://img.youtube.com/vi/9MjWU8usnBU/maxresdefault.jpg" width="150" alt="Russian Data Centers Bombed - BHIS - Talkin' Bout [infosec] News 2026-10-12" /></a>
+  <a href="https://www.youtube.com/watch?v=MgAuHX6UyJ0"><img src="https://img.youtube.com/vi/MgAuHX6UyJ0/maxresdefault.jpg" width="150" alt="🔴 Oct 12's Top Cyber News NOW! - Ep 1263" /></a>
+  <a href="https://www.youtube.com/watch?v=saPT2ZsP45E"><img src="https://img.youtube.com/vi/saPT2ZsP45E/maxresdefault.jpg" width="150" alt="Think You’re Private Online? Watch This" /></a>
   <a href="https://www.youtube.com/watch?v=1SOW87DO6Yg"><img src="https://img.youtube.com/vi/1SOW87DO6Yg/maxresdefault.jpg" width="150" alt="Sysmon | Free Lab Fridays [Full Lab Walkthrough]" /></a>
   <a href="https://www.youtube.com/watch?v=0QNuCmW2P6U"><img src="https://img.youtube.com/vi/0QNuCmW2P6U/maxresdefault.jpg" width="150" alt="Will AI Take Over? | Episode 71" /></a>
   <a href="https://www.youtube.com/watch?v=exATQJD-i-0"><img src="https://img.youtube.com/vi/exATQJD-i-0/maxresdefault.jpg" width="150" alt="OWASP Agentic Top 10 [Part 2] | Episode 72" /></a>
