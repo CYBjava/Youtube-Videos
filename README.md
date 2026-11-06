@@ -1,8 +1,34 @@
 <h1> Youtube-Videos </h2>
 
 Newest --> Oldest
+<h2>November-Feed</h2>
+<p>
+  <a href="https://www.youtube.com/watch?v=5HjnQYS1QOc"><img src="https://img.youtube.com/vi/5HjnQYS1QOc/maxresdefault.jpg" width="150" alt="ISPs Can Use WiFi to Track You | Discussing WiFi Sensing, ft. Wendell of Level1 Techs" /></a>
+  <a href="https://www.youtube.com/watch?v=mdlLCkLx9BI"><img src="https://img.youtube.com/vi/mdlLCkLx9BI/maxresdefault.jpg" width="150" alt="Uh, Google?" /></a>
+  <a href="https://www.youtube.com/watch?v=KIlML93pr0w"><img src="https://img.youtube.com/vi/KIlML93pr0w/maxresdefault.jpg" width="150" alt="How Malware infiltrates your system in 2026" /></a>
+  <a href="https://www.youtube.com/watch?v=VFx1DyAjxYc"><img src="https://img.youtube.com/vi/VFx1DyAjxYc/maxresdefault.jpg" width="150" alt="A Hacker Found What His Samsung TV Was Tracking" /></a>
+  <a href="https://www.youtube.com/watch?v=cKFYHtkG3dw"><img src="https://img.youtube.com/vi/cKFYHtkG3dw/maxresdefault.jpg" width="150" alt="🔴 Nov 3's Top Cyber News NOW! - Ep 1279" /></a>
+  <a href="https://www.youtube.com/watch?v=mQ8PV62JDkI"><img src="https://img.youtube.com/vi/mQ8PV62JDkI/maxresdefault.jpg" width="150" alt="Using AI as Your Personal Research Assistant w/ Ashley Knowles" /></a>
+  <a href="https://www.youtube.com/watch?v=m4gx5YoRYfM"><img src="https://img.youtube.com/vi/m4gx5YoRYfM/maxresdefault.jpg" width="150" alt="This Isn't Possible..." /></a>
+  <a href="https://www.youtube.com/watch?v=7DzymznOK2w"><img src="https://img.youtube.com/vi/7DzymznOK2w/maxresdefault.jpg" width="150" alt="How an AI scare took down Top Websites: PHP Hacked?" /></a>
+  <a href="https://www.youtube.com/watch?v=2pFGYJXhnfw"><img src="https://img.youtube.com/vi/2pFGYJXhnfw/maxresdefault.jpg" width="150" alt="Your Smart Device Is Tracking You More Than You Think" /></a>
+</p>
+
 <h2>October-Feed</h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=2xwaCJxzPjQ"><img src="https://img.youtube.com/vi/2xwaCJxzPjQ/maxresdefault.jpg" width="150" alt="🔴 Oct 30's Top Cyber News NOW! - Ep 1277" /></a>
+  <a href="https://www.youtube.com/watch?v=m6FrR1fHGj0"><img src="https://img.youtube.com/vi/m6FrR1fHGj0/maxresdefault.jpg" width="150" alt="More Rogue Agents: Who Watches the Watchers? | Episode 75" /></a>
+  <a href="https://www.youtube.com/watch?v=edg-ZGFNLq0"><img src="https://img.youtube.com/vi/edg-ZGFNLq0/maxresdefault.jpg" width="150" alt="Will AI Take Over? [Part 2] Recorded Live From Wild West Hackin' Fest | Episode 74" /></a>
+  <a href="https://www.youtube.com/watch?v=DcuVpeOcfu0"><img src="https://img.youtube.com/vi/DcuVpeOcfu0/maxresdefault.jpg" width="150" alt="The Biggest Hack Ever (They Stole $6.5B)" /></a>
+  <a href="https://www.youtube.com/watch?v=7h7FYGF7tuQ"><img src="https://img.youtube.com/vi/7h7FYGF7tuQ/maxresdefault.jpg" width="150" alt="Reverse Engineering Proves What We Suspected All Along.." /></a>
+  <a href="https://www.youtube.com/watch?v=v0wB8Zal_HQ"><img src="https://img.youtube.com/vi/v0wB8Zal_HQ/maxresdefault.jpg" width="150" alt="How Hackers Target Satellites Through Ground Control Systems" /></a>
+  <a href="https://www.youtube.com/watch?v=h-1SmWgiq7c"><img src="https://img.youtube.com/vi/h-1SmWgiq7c/maxresdefault.jpg" width="150" alt="PHP2Shell Causes Hell on a Friday – BHIS - Talkin' Bout [infosec] News 2026-10-26" /></a>
+  <a href="https://www.youtube.com/watch?v=7Rss-Xi2fQ8"><img src="https://img.youtube.com/vi/7Rss-Xi2fQ8/maxresdefault.jpg" width="150" alt="AI Behaving Badly | Episode 73" /></a>
+  <a href="https://www.youtube.com/watch?v=KU2UONdNl1Y"><img src="https://img.youtube.com/vi/KU2UONdNl1Y/maxresdefault.jpg" width="150" alt="How Police Can Track Your Phone" /></a>
+  <a href="https://www.youtube.com/watch?v=Gxi_n-PtQBo"><img src="https://img.youtube.com/vi/Gxi_n-PtQBo/maxresdefault.jpg" width="150" alt="A PHP Bug Just Took Websites Offline Worldwide" /></a>
+  <a href="https://www.youtube.com/watch?v=5wZUwZWxMLQ"><img src="https://img.youtube.com/vi/5wZUwZWxMLQ/maxresdefault.jpg" width="150" alt="0day Hacks NetworkChuck (OSINT)" /></a>
+  <a href="https://www.youtube.com/watch?v=NIYrtrHUqds"><img src="https://img.youtube.com/vi/NIYrtrHUqds/maxresdefault.jpg" width="150" alt="The PHP RCE is Insane" /></a>
+  <a href="https://www.youtube.com/watch?v=HZgbupbxk3E"><img src="https://img.youtube.com/vi/HZgbupbxk3E/maxresdefault.jpg" width="150" alt="SkyKick Compromise Causes Panic in MSP Space - 2026-10-19 BHIS - Talkin' Bout [infosec] News" /></a>
   <a href="https://www.youtube.com/watch?v=f7Jv5gDjGsA"><img src="https://img.youtube.com/vi/f7Jv5gDjGsA/maxresdefault.jpg" width="150" alt="Learn Malware Analysis with Ghidra and x64dbg (for free)" /></a>
   <a href="https://www.youtube.com/watch?v=iL4U6b2NfJo"><img src="https://img.youtube.com/vi/iL4U6b2NfJo/maxresdefault.jpg" width="150" alt="This Chinese AI Github project could hack your bank!" /></a>
   <a href="https://www.youtube.com/watch?v=wIe3eDfGKUo"><img src="https://img.youtube.com/vi/wIe3eDfGKUo/maxresdefault.jpg" width="150" alt="Has AI Solved Reverse Engineering?" /></a>
