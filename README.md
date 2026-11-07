@@ -3,6 +3,8 @@
 Newest --> Oldest
 <h2>November-Feed</h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=jXmDwIYepAo"><img src="https://img.youtube.com/vi/jXmDwIYepAo/maxresdefault.jpg" width="150" alt="🔴 Nov 6's Top Cyber News NOW! - Ep 1282" /></a>
+  <a href="https://www.youtube.com/watch?v=J3VavGnt5Yg"><img src="https://img.youtube.com/vi/J3VavGnt5Yg/maxresdefault.jpg" width="150" alt="Kubernetes Crash Course (A True Story)" /></a>
   <a href="https://www.youtube.com/watch?v=5HjnQYS1QOc"><img src="https://img.youtube.com/vi/5HjnQYS1QOc/maxresdefault.jpg" width="150" alt="ISPs Can Use WiFi to Track You | Discussing WiFi Sensing, ft. Wendell of Level1 Techs" /></a>
   <a href="https://www.youtube.com/watch?v=mdlLCkLx9BI"><img src="https://img.youtube.com/vi/mdlLCkLx9BI/maxresdefault.jpg" width="150" alt="Uh, Google?" /></a>
   <a href="https://www.youtube.com/watch?v=KIlML93pr0w"><img src="https://img.youtube.com/vi/KIlML93pr0w/maxresdefault.jpg" width="150" alt="How Malware infiltrates your system in 2026" /></a>
