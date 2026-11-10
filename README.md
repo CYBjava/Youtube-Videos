@@ -3,6 +3,9 @@
 Newest --> Oldest
 <h2>November-Feed</h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=ihz4b322noc"><img src="https://img.youtube.com/vi/ihz4b322noc/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-11-09" /></a>
+  <a href="https://www.youtube.com/watch?v=xDZHu6pJv24"><img src="https://img.youtube.com/vi/xDZHu6pJv24/maxresdefault.jpg" width="150" alt="If you see THIS Your PC is hacked" /></a>
+  <a href="https://www.youtube.com/watch?v=4Id5aTlYkHg"><img src="https://img.youtube.com/vi/4Id5aTlYkHg/maxresdefault.jpg" width="150" alt="The AI Alignment Problem & Its Solutions, with Aza Raskin" /></a>
   <a href="https://www.youtube.com/watch?v=jXmDwIYepAo"><img src="https://img.youtube.com/vi/jXmDwIYepAo/maxresdefault.jpg" width="150" alt="🔴 Nov 6's Top Cyber News NOW! - Ep 1282" /></a>
   <a href="https://www.youtube.com/watch?v=J3VavGnt5Yg"><img src="https://img.youtube.com/vi/J3VavGnt5Yg/maxresdefault.jpg" width="150" alt="Kubernetes Crash Course (A True Story)" /></a>
   <a href="https://www.youtube.com/watch?v=5HjnQYS1QOc"><img src="https://img.youtube.com/vi/5HjnQYS1QOc/maxresdefault.jpg" width="150" alt="ISPs Can Use WiFi to Track You | Discussing WiFi Sensing, ft. Wendell of Level1 Techs" /></a>
