@@ -3,6 +3,19 @@
 Newest --> Oldest
 <h2>November-Feed</h2>
 <p>
+  
+  <a href="https://www.youtube.com/watch?v=d-Ptpd3Pv6I"><img src="https://img.youtube.com/vi/d-Ptpd3Pv6I/maxresdefault.jpg" width="150" alt="A Secure Home Network Is Easier Than You Think" /></a>
+  <a href="https://www.youtube.com/watch?v=wo5zPmIIrdA"><img src="https://img.youtube.com/vi/wo5zPmIIrdA/maxresdefault.jpg" width="150" alt="Going WAY Too Deep on VLANs" /></a>
+  <a href="https://www.youtube.com/watch?v=C40pljzfrrc"><img src="https://img.youtube.com/vi/C40pljzfrrc/maxresdefault.jpg" width="150" alt="🔴 Nov 13's Top Cyber News NOW! - Ep 1287" /></a>
+  <a href="https://www.youtube.com/watch?v=aVRAQgRIJ9k"><img src="https://img.youtube.com/vi/aVRAQgRIJ9k/maxresdefault.jpg" width="150" alt="Remember, Remember the 13th of November — BHIS - Talkin' Bout [infosec] News 2026-11-16" /></a>
+  <a href="https://www.youtube.com/watch?v=O_zcc6Xl12g"><img src="https://img.youtube.com/vi/O_zcc6Xl12g/maxresdefault.jpg" width="150" alt="All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI" /></a>
+  <a href="https://www.youtube.com/watch?v=NGWwUQWzpIc"><img src="https://img.youtube.com/vi/NGWwUQWzpIc/maxresdefault.jpg" width="150" alt="The SSH Bug That Made ANY 300-Character Password Valid" /></a>
+  <a href="https://www.youtube.com/watch?v=5xD9YOeB8z4"><img src="https://img.youtube.com/vi/5xD9YOeB8z4/maxresdefault.jpg" width="150" alt="Firewall Log Review | Free Lab Fridays [Full Lab Walkthrough]" /></a>
+  <a href="https://www.youtube.com/watch?v=wwVxCRYaYfs"><img src="https://img.youtube.com/vi/wwVxCRYaYfs/maxresdefault.jpg" width="150" alt="Outlook is DOWN: What Microsoft Broke (Retired Microsoft Engineer Explains)" /></a>
+  <a href="https://www.youtube.com/watch?v=imNOKbBsa9k"><img src="https://img.youtube.com/vi/imNOKbBsa9k/maxresdefault.jpg" width="150" alt="Follow the Sign-in: Entra ID (Azure AD) investigations in the SIEM" /></a>
+  <a href="https://www.youtube.com/watch?v=ihetnlpNk2U"><img src="https://img.youtube.com/vi/ihetnlpNk2U/maxresdefault.jpg" width="150" alt="the sleeping giant of cybersecurity" /></a>
+  <a href="https://www.youtube.com/watch?v=whi6ZHDHddc"><img src="https://img.youtube.com/vi/whi6ZHDHddc/maxresdefault.jpg" width="150" alt="Find Active Directory Security Risks w/ David Horák" /></a>
+  <a href="https://www.youtube.com/watch?v=zeaMHu_o_iQ"><img src="https://img.youtube.com/vi/zeaMHu_o_iQ/maxresdefault.jpg" width="150" alt="Scariest Malware of Today? TokyoCore combines Ransomware Stealer and RAT" /></a>
   <a href="https://www.youtube.com/watch?v=ihz4b322noc"><img src="https://img.youtube.com/vi/ihz4b322noc/maxresdefault.jpg" width="150" alt="BHIS - Talkin' Bout [infosec] News 2026-11-09" /></a>
   <a href="https://www.youtube.com/watch?v=xDZHu6pJv24"><img src="https://img.youtube.com/vi/xDZHu6pJv24/maxresdefault.jpg" width="150" alt="If you see THIS Your PC is hacked" /></a>
   <a href="https://www.youtube.com/watch?v=4Id5aTlYkHg"><img src="https://img.youtube.com/vi/4Id5aTlYkHg/maxresdefault.jpg" width="150" alt="The AI Alignment Problem & Its Solutions, with Aza Raskin" /></a>
