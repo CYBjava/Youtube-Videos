@@ -3,7 +3,11 @@
 Newest --> Oldest
 <h2>November-Feed</h2>
 <p>
-  
+  <a href="https://www.youtube.com/watch?v=w45jX6-sxhg"><img src="https://img.youtube.com/vi/w45jX6-sxhg/maxresdefault.jpg" width="150" alt="🔴 Nov 20's Top Cyber News NOW! - Ep 1292" /></a>
+  <a href="https://www.youtube.com/watch?v=M1HBrmjUdkM"><img src="https://img.youtube.com/vi/M1HBrmjUdkM/maxresdefault.jpg" width="150" alt="Black October Never Ended: Why AI Just Broke the Patch Clock | Episode 77" /></a>
+  <a href="https://www.youtube.com/watch?v=_KnmzATDejc"><img src="https://img.youtube.com/vi/_KnmzATDejc/maxresdefault.jpg" width="150" alt="🔴 Nov 18's Top Cyber News NOW! - Ep 1290" /></a>
+  <a href="https://www.youtube.com/watch?v=rEMrwq2W98s"><img src="https://img.youtube.com/vi/rEMrwq2W98s/maxresdefault.jpg" width="150" alt="I Left My $100K Job to Hack Independently (Here's What Happened)" /></a>
+  <a href="https://www.youtube.com/watch?v=2Z7L3H-GJP0"><img src="https://img.youtube.com/vi/2Z7L3H-GJP0/maxresdefault.jpg" width="150" alt="Do it, Do it NOW! – IR Preparedness Checklist - 2027 Technical Version" /></a>
   <a href="https://www.youtube.com/watch?v=d-Ptpd3Pv6I"><img src="https://img.youtube.com/vi/d-Ptpd3Pv6I/maxresdefault.jpg" width="150" alt="A Secure Home Network Is Easier Than You Think" /></a>
   <a href="https://www.youtube.com/watch?v=wo5zPmIIrdA"><img src="https://img.youtube.com/vi/wo5zPmIIrdA/maxresdefault.jpg" width="150" alt="Going WAY Too Deep on VLANs" /></a>
   <a href="https://www.youtube.com/watch?v=C40pljzfrrc"><img src="https://img.youtube.com/vi/C40pljzfrrc/maxresdefault.jpg" width="150" alt="🔴 Nov 13's Top Cyber News NOW! - Ep 1287" /></a>
